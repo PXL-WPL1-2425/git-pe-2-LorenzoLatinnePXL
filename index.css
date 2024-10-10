@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.div1 {
+    background: red;
+    width: 33.33vw;
+    height: 30px;
+}
+
+.div2 {
+    background: green;
+    width: 33.33vw;
+    height: 30px;
+}
+
+.div3 {
+    background: blue;
+    width: 33.33vw;
+    height: 30px;
+}
